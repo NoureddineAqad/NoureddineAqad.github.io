@@ -27,7 +27,7 @@
 
 .light-mode{
     --color-primary: #FFFFFF; 
-    --color-secondary: #15a0ca;
+    --color-secondary: #00ffff;
     --color-white: #454e56;
     --color-black: #000;
     --color-grey0: #f8f8f8;
@@ -157,7 +157,7 @@ section{
 }
 
 .theme-btn{
-    top: 5%;
+    top: 12.5%;
     right: 3%;
     width: 70px;
     height: 70px;
@@ -286,6 +286,8 @@ section{
             }
             .abt-text{
                 padding: 1.5rem;
+                margin-top: 3.5rem;
+                margin-bottom: 3.5rem;
                 display: flex;
                 flex-direction: column;
                 .large-text{
@@ -484,6 +486,8 @@ section{
 .port-text{
     padding: 2rem 0;
     text-align: center;
+    margin-top: 3.5rem;
+    margin-bottom: 3.5rem;
 }
 
 .portfolios{
@@ -568,6 +572,8 @@ section{
     margin-top: 3rem;
     .blog{
         position: relative;
+        margin-top: 3rem;
+        margin-bottom: 3rem;
         background-color: var(--color-grey-5);
         border-radius: 5px;
         box-shadow: 1px 1px 20px rgba(0,0,0,0.1);
@@ -714,9 +720,12 @@ section{
             justify-content: center;
             align-items: center;
             align-self: flex-start;
+            margin-bottom: 3.5rem;
         }
     }
-
+    
+       
+    
 
 }
 
@@ -787,6 +796,8 @@ section{
         }
         .bg-text{
             position: absolute;
+            margin-top: 0.5rem;
+            margin-bottom: 0.5rem;
             top:50%;
             left:50%;
             color: var(--color-grey-5);
@@ -797,6 +808,7 @@ section{
             font-size: 6.3rem;
         }
     }
+
 }
 
 //reset browser default
