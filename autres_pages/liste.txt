@@ -1,0 +1,14 @@
+page 1 : E4 - réalisations en cours de formation (4)
+page 2 : E4 - réalisations en cours de stage (3 + 1 PP)
+page 3 : Dossier professionnel E5 - Projet 1 + lien 1
+page 4 : Dossier professionnel E5 - Projet 2 + lien 2
+page 5a : Dossier documentaire - Projet 1
+page 5b : Dossier documentaire - Projet 2
+lien 1 : gdrive - fiche descr E5 projet 1
+lien 2 : gdrive - fiche descr E5 projet 2
+
+L'épreuve E4 du BTS SIO option SISR (Solutions d'Infrastructure, Systèmes et Réseaux) est une épreuve pratique
+qui évalue les compétences professionnelles des étudiants dans le domaine de l'administration
+des systèmes informatiques et des réseaux.
+
+Mission n°3 in mojjo : Réalisation d’une installation d’un système d’exploitation et configuration de celui-ci (mise à jour, installation des pilotes et des logiciels métiers et de diagnostique).
